@@ -92,6 +92,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Metlife |||||
 | Qualcomm ||||
 | Redhat ||||
+|Redventure||||
 | Riot ||||
 | Salesforce | ~ | ~ | ~ |
 | SAS ||||
