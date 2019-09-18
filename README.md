@@ -12,6 +12,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | American Express | Campus 2020 Technology Software Engineer | New York, NY, USA | https://jobs.americanexpress.com/jobs/19013265?lang=en-us&previousLocale=en-US |
 | Apple | Software Engineer (Siri Rotational Program) | Cupertino, CA | https://jobs.apple.com/en-us/details/200078270/siri-software-engineer-siri-rotational-program?team=MLAI |
 | Applied Intuition | Software Engineer | Sunnyvale, CA | https://hire.withgoogle.com/public/jobs/appliedintuitioncom/view/P_AAAAAADAAAONASDXZTBdvp |
+| Bank of America | Global Technology Analyst Program |||
 | Bolt | Software Engineer | San Francisco, CA, USA | https://www.bolt.com/jobs/software-engineer-new-grad-sf/397d3220-611b-4f08-ba87-0a03b0d610d6/ |
 | Camelot Consulting, Inc. | Programmer | Charlotte, NC | via handshake|
 | Dropbox | Software Engineer University Grad | San Francisco, CA; Seattle, WA; New York, NY | https://www.dropbox.com/jobs/listing/1806456 |
