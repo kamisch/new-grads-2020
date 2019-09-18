@@ -29,6 +29,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Rockset | Software Engineer | San Mateo, CA, US | https://hire.withgoogle.com/public/jobs/rocksetio/view/P_AAAAAADAAADMgOiflDNuLe |
 | Paradigm Technologies | Data Scientist | Chicago, IN| via handshake|
 | Paradigm Technologies | Software Developer | Chicago, IN| via handshake|
+| SAS | System developer and technical consultant |||
 | Stripe | Software Engineer | Seattle, WA, US; San Francisco, CA, US | https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 |
 | Thumbtack | Software Engineer | San Francisco, CA, USA | https://boards.greenhouse.io/thumbtack/jobs/1814757?gh_src=6262b31c1 |
 | Twenty Billion Neurons | AI Engineer Intern | Berlin, Germany | via handshake |
@@ -83,7 +84,6 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 |Redventure||||
 | Riot ||||
 | Salesforce | ~ | ~ | ~ |
-| SAS ||||
 | Two Sigma ||||
 
 ## Dont think it fits my resume
