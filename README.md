@@ -18,19 +18,15 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Dropbox | Software Engineer University Grad | San Francisco, CA; Seattle, WA; New York, NY | https://www.dropbox.com/jobs/listing/1806456 |
 | Duolingo | Software Engineer | Pittsburgh, Pennsylvania | https://boards.greenhouse.io/duolingo/jobs/4351725002 |
 | Ezoic | Software Engineer | Carlsbad, Ca | via handshake |
-| Epic Systems | | | |
 | Facebook | Software Engineer, University Grad | Boston, MA, USA; Washington, DC, USA; New York, NY, USA; Seattle, WA, USA; Menlo Park, CA, USA | https://www.facebook.com/careers/jobs/859448991102087/ |
 | Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
-| Google | Software Engineer, University Graduate | all locations | on google website | 
 | Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |
 | Matroid | Full Stack Engineer | PALO ALTO, CA | via handshake|
-| Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
 | NCS | Research Scientist/Engineer | North Region, Singapore | via handshake |
 | Netapp | Software Engineer | Raleigh area | via linkedin | 
 | Rockset | Software Engineer | San Mateo, CA, US | https://hire.withgoogle.com/public/jobs/rocksetio/view/P_AAAAAADAAADMgOiflDNuLe |
 | Paradigm Technologies | Data Scientist | Chicago, IN| via handshake|
 | Paradigm Technologies | Software Developer | Chicago, IN| via handshake|
-| Redventure | Software engineering |||
 | SAS | System developer and technical consultant |||
 | Stripe | Software Engineer | Seattle, WA, US; San Francisco, CA, US | https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 |
 | Twenty Billion Neurons | AI Engineer Intern | Berlin, Germany | via handshake |
@@ -44,6 +40,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | --- | --- | --- | --- |
 | Akuna Capital | Junior Developer | Chicago, IL | https://akunacapital.com/job-details?gh_jid=1755321 |
 https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-2020 |
+| Google | Software Engineer, University Graduate | all locations | on google website | 
 | Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship "Can't verify email after submitting"|
 
 ## No Offers
@@ -54,11 +51,14 @@ https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-202
 | Citrix | University Software Engineer | Raleigh, NC, USA; Ft Lauderdale, FL, USA;  Burlington, MA, USA; Santa Clara, CA, USA | 
 | Capital One | Technology Development Program | McLean, Virginia; New York, New York; San Francisco, California; Richmond, Virginia; | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
 | Cisco | Software Engineer | RTP, NC - San Francisco, CA - Richardson, TX - Austin, TX - Cambridge, MA - Richfield, OH - Knoxville, TN - Lawrenceville, GA | https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1265288?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program |
+| Epic Systems | | | |
 | General Motor |  Early Career - TRACK - Software/Algorithm Engineer  | all locations | on their website |
 | Gusto | Software Engineer | San Francisco, CA, USA; Denver, CO, USA | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823033 |
 | IXL Learning | Software Engineer | Raleigh area | via linkedin |
 | Lime | Software Engineer | Bay Area, CA, USA | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
+| Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
 | Palantir | Software Engineer, University Grad | New York, NY, USA; Washington, D.C. | https://jobs.lever.co/palantir/136703f3-37a8-4308-84ef-4e2865daf577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic https://jobs.lever.co/palantir/93ea128e-cad5-4c46-a42e-04bb9f6fdfbe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic |
+| Redventure | Software engineering |||
 | Thumbtack | Software Engineer | San Francisco, CA, USA | https://boards.greenhouse.io/thumbtack/jobs/1814757?gh_src=6262b31c1 |
 | Virtu Financial | Software Engineer, Financial Systems Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
 | Yelp | Software Engineer, New Grad, backend and fullstack | San Francisco, CA | https://www.yelp.com/careers/teams/college-engineering |
