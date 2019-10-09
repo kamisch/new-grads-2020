@@ -27,7 +27,6 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Rockset | Software Engineer | San Mateo, CA, US | https://hire.withgoogle.com/public/jobs/rocksetio/view/P_AAAAAADAAADMgOiflDNuLe |
 | Paradigm Technologies | Data Scientist | Chicago, IN| via handshake|
 | Paradigm Technologies | Software Developer | Chicago, IN| via handshake|
-| SAS | System developer and technical consultant |||
 | Stripe | Software Engineer | Seattle, WA, US; San Francisco, CA, US | https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 |
 | Twenty Billion Neurons | AI Engineer Intern | Berlin, Germany | via handshake |
 | Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship "Can't verify email after submitting"|
@@ -41,6 +40,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Akuna Capital | Junior Developer | Chicago, IL | https://akunacapital.com/job-details?gh_jid=1755321 |
 https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-2020 |
 | Google | Software Engineer, University Graduate | all locations | on google website | 
+| SAS | System developer and technical consultant |||
 | Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship "Can't verify email after submitting"|
 
 ## No Offers
