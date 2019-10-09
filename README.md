@@ -19,8 +19,10 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | BlackRock |	Software Engineer |New York, NY	| https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-829423/xf-40177a92b6b2/candidate/so/pm/1/pl/1/opp/3592-Analyst-Program-Americas/en-GB |
 | Bloomberg	|Software Engineer|	New York, NY	|https://careers.bloomberg.com/job/detail/76851|
 | Bolt | Software Engineer | San Francisco, CA, USA | https://www.bolt.com/jobs/software-engineer-new-grad-sf/397d3220-611b-4f08-ba87-0a03b0d610d6/ |
+| C3.ai	| Software Engineer	| Redwood City, CA	| https://boards.greenhouse.io/c3iot/jobs/4416889002 |
 | Camelot Consulting, Inc. | Programmer | Charlotte, NC | via handshake|
 | CoStar | associate technologist |||
+| Discover | 2020 Technology College Hire Program | Software Developer	Riverwoods, IL |	https://jobs.discover.com/job/10027266/2020-technology-college-hire-program---software-developer-riverwoods-il/ |
 | Dropbox | Software Engineer University Grad | San Francisco, CA; Seattle, WA; New York, NY | https://www.dropbox.com/jobs/listing/1806456 |
 | Duolingo | Software Engineer | Pittsburgh, Pennsylvania | https://boards.greenhouse.io/duolingo/jobs/4351725002 |
 | Ezoic | Software Engineer | Carlsbad, Ca | via handshake |
