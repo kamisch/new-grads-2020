@@ -55,8 +55,8 @@ https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-202
 | General Motor |  Early Career - TRACK - Software/Algorithm Engineer  | First Video Interview | on their website |
 | Gusto | Software Engineer | no interview | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823033 |
 | IXL Learning | Software Engineer | Hackerrank | via linkedin |
-| Lime | Software Engineer | no interview | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
-| Microsoft | Software Engineer, Data Science | no interview | https://careers.microsoft.com/students/us/en |
+| Lime | Software Engineer | No interview | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
+| Microsoft | Software Engineer, Data Science | No interview | https://careers.microsoft.com/students/us/en |
 | Palantir | Software Engineer, University Grad | Hackerrank | |
 | Redventure | Software engineering | No Interview ||
 | Thumbtack | Software Engineer | No Interview | https://boards.greenhouse.io/thumbtack/jobs/1814757?gh_src=6262b31c1 |
