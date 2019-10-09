@@ -74,12 +74,10 @@ https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-202
 | --- | --- | --- | --- |
 | Adobe ||||
 | airbnb ||||
-| Bank of America ||||
 | Bloomberg ||||
 | Epic games ||||
 | epic system||||
 | Fidelity | |||
-| Google | Engineering Residentcy| Ca |https://www.google.com/about/careers/students/engres.html|
 | LinkedIn ||||
 | Lyft ||||
 | Netflex ||||
