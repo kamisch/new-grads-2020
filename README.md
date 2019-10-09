@@ -44,24 +44,24 @@ https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-202
 | Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship "Can't verify email after submitting"|
 
 ## No Offers
-| Company | Position | applied Location | Link |
+| Company | Position | Stage | Link |
 | --- | --- | --- | --- |
-| Amazon | Software Development Engineer | Seattle, WA; New York, NY; San Diego, CA. | https://www.amazon.jobs/en/jobs/908703/software-development-engineer-2020-united-states |
-| Bank of America | Global Technology Analyst Program |||
-| Citrix | University Software Engineer | Raleigh, NC, USA; Ft Lauderdale, FL, USA;  Burlington, MA, USA; Santa Clara, CA, USA | 
-| Capital One | Technology Development Program | McLean, Virginia; New York, New York; San Francisco, California; Richmond, Virginia; | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
-| Cisco | Software Engineer | RTP, NC - San Francisco, CA - Richardson, TX - Austin, TX - Cambridge, MA - Richfield, OH - Knoxville, TN - Lawrenceville, GA | https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1265288?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program |
-| Epic Systems | | | |
-| General Motor |  Early Career - TRACK - Software/Algorithm Engineer  | all locations | on their website |
-| Gusto | Software Engineer | San Francisco, CA, USA; Denver, CO, USA | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823033 |
-| IXL Learning | Software Engineer | Raleigh area | via linkedin |
-| Lime | Software Engineer | Bay Area, CA, USA | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
-| Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
-| Palantir | Software Engineer, University Grad | New York, NY, USA; Washington, D.C. | https://jobs.lever.co/palantir/136703f3-37a8-4308-84ef-4e2865daf577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic https://jobs.lever.co/palantir/93ea128e-cad5-4c46-a42e-04bb9f6fdfbe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic |
-| Redventure | Software engineering |||
-| Thumbtack | Software Engineer | San Francisco, CA, USA | https://boards.greenhouse.io/thumbtack/jobs/1814757?gh_src=6262b31c1 |
-| Virtu Financial | Software Engineer, Financial Systems Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
-| Yelp | Software Engineer, New Grad, backend and fullstack | San Francisco, CA | https://www.yelp.com/careers/teams/college-engineering |
+| Amazon | Software Development Engineer | Final round| https://www.amazon.jobs/en/jobs/908703/software-development-engineer-2020-united-states |
+| Bank of America | Global Technology Analyst Program | First video interview ||
+| Citrix | University Software Engineer | Hackerrank | 
+| Capital One | Technology Development Program | Final Round | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
+| Cisco | Software Engineer | First video interview | https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1265288?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program |
+| Epic Systems | | No interview | |
+| General Motor |  Early Career - TRACK - Software/Algorithm Engineer  | First Video Interview | on their website |
+| Gusto | Software Engineer | no interview | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823033 |
+| IXL Learning | Software Engineer | Hackerrank | via linkedin |
+| Lime | Software Engineer | no interview | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
+| Microsoft | Software Engineer, Data Science | no interview | https://careers.microsoft.com/students/us/en |
+| Palantir | Software Engineer, University Grad | Hackerrank | |
+| Redventure | Software engineering | No Interview ||
+| Thumbtack | Software Engineer | No Interview | https://boards.greenhouse.io/thumbtack/jobs/1814757?gh_src=6262b31c1 |
+| Virtu Financial | Software Engineer, Financial Systems Dev | No Interview | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
+| Yelp | Software Engineer, New Grad, backend and fullstack | Hackerrank | https://www.yelp.com/careers/teams/college-engineering |
 
 
 ## Offers
