@@ -26,6 +26,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Discover | 2020 Technology College Hire Program | Software Developer	Riverwoods, IL |	https://jobs.discover.com/job/10027266/2020-technology-college-hire-program---software-developer-riverwoods-il/ |
 | Dropbox | Software Engineer University Grad | San Francisco, CA; Seattle, WA; New York, NY | https://www.dropbox.com/jobs/listing/1806456 |
 | Duolingo | Software Engineer | Pittsburgh, Pennsylvania | https://boards.greenhouse.io/duolingo/jobs/4351725002 |
+| Expedia |	New Graduate Software Engineer 1	| Seattle, WA; Chicago, IL; Denver, CO; San Francisco, CA; Springfield, MO; Montreal, Quebec	| https://lifeatexpedia.com/jobs/job?jobid=R-48721 |
 | Ezoic | Software Engineer | Carlsbad, Ca | via handshake |
 | Facebook | Software Engineer, University Grad | Boston, MA, USA; Washington, DC, USA; New York, NY, USA; Seattle, WA, USA; Menlo Park, CA, USA | https://www.facebook.com/careers/jobs/859448991102087/ |
 | Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
@@ -38,6 +39,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Rockset | Software Engineer | San Mateo, CA, US | https://hire.withgoogle.com/public/jobs/rocksetio/view/P_AAAAAADAAADMgOiflDNuLe |
 | Paradigm Technologies | Data Scientist | Chicago, IN| via handshake|
 | Paradigm Technologies | Software Developer | Chicago, IN| via handshake|
+| Paypal |	Software Engineer |	San Jose, CA | Applied online |
 | Stripe | Software Engineer | Seattle, WA, US; San Francisco, CA, US | https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 |
 | Twenty Billion Neurons | AI Engineer Intern | Berlin, Germany | via handshake |
 | Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship "Can't verify email after submitting"|
