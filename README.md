@@ -23,6 +23,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Camelot Consulting, Inc. | Programmer | Charlotte, NC | via handshake|
 | Checkr | Software Engineer new grad | CA | linkedin | 
 | Clutter | Software Engineer, New Grad 2020 |	Los Angeles, CA	| https://www.clutter.com/role?title=Software%20Engineer,%20New%20Grad%202020&gh_jid=1420465 |
+| Confluent | Frontend/ Backend Software Engineer, New Grad | CA | linkedin | 
 | CoStar | associate technologist |||
 | Discover | 2020 Technology College Hire Program | Software Developer	Riverwoods, IL |	https://jobs.discover.com/job/10027266/2020-technology-college-hire-program---software-developer-riverwoods-il/ |
 | Dropbox | Software Engineer University Grad | San Francisco, CA; Seattle, WA; New York, NY | https://www.dropbox.com/jobs/listing/1806456 |
@@ -32,8 +33,9 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Facebook | Software Engineer, University Grad | Boston, MA, USA; Washington, DC, USA; New York, NY, USA; Seattle, WA, USA; Menlo Park, CA, USA | https://www.facebook.com/careers/jobs/859448991102087/ |
 | Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
 | Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |
-| LinkedIn | Entry Level Software Engineer, associate product manager |	Sunnyvale, CA, US |	https://careers.linkedin.com/students/Entry-Level/Technical|
 | IBM | Front end - Back end - salesforce | All locations | on IBM website |
+| Jet Propotion Lab CalTech| SOFTWARE COMPUTING SYSTEMS ENGINEER - NEW GRAD | CA | linkedin |
+| LinkedIn | Entry Level Software Engineer, associate product manager |	Sunnyvale, CA, US |	https://careers.linkedin.com/students/Entry-Level/Technical|
 | Matroid | Full Stack Engineer | PALO ALTO, CA | via handshake|
 | NCS | Research Scientist/Engineer | North Region, Singapore | via handshake |
 | Netapp | Software Engineer | Raleigh area | via linkedin | 
