@@ -22,7 +22,6 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | C3.ai	| Software Engineer	| Redwood City, CA	| https://boards.greenhouse.io/c3iot/jobs/4416889002 |
 | Camelot Consulting, Inc. | Programmer | Charlotte, NC | via handshake|
 | Checkr | Software Engineer new grad | CA | linkedin | 
-| Clutter | Software Engineer, New Grad 2020 |	Los Angeles, CA	| https://www.clutter.com/role?title=Software%20Engineer,%20New%20Grad%202020&gh_jid=1420465 |
 | Confluent | Frontend/ Backend Software Engineer, New Grad | CA | linkedin | 
 | CoStar | associate technologist |||
 | Discover | 2020 Technology College Hire Program | Software Developer	Riverwoods, IL |	https://jobs.discover.com/job/10027266/2020-technology-college-hire-program---software-developer-riverwoods-il/ |
@@ -69,6 +68,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Citrix | University Software Engineer | Hackerrank | https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-2020 |
 | Capital One | Technology Development Program | Final Round | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
 | Cisco | Software Engineer | First video interview | https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1265288?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program |
+| Clutter | Software Engineer, New Grad 2020 | No Interview | https://www.clutter.com/role?title=Software%20Engineer,%20New%20Grad%202020&gh_jid=1420465 |
 | Epic Systems | | No interview | |
 | General Motor |  Early Career - TRACK - Software/Algorithm Engineer  | First Video Interview | on their website |
 | Gusto | Software Engineer | no interview | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823033 |
