@@ -31,7 +31,9 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Expedia |	New Graduate Software Engineer 1	| Seattle, WA; Chicago, IL; Denver, CO; San Francisco, CA; Springfield, MO; Montreal, Quebec	| https://lifeatexpedia.com/jobs/job?jobid=R-48721 |
 | Ezoic | Software Engineer | Carlsbad, Ca | via handshake |
 | Facebook | Software Engineer, University Grad | Boston, MA, USA; Washington, DC, USA; New York, NY, USA; Seattle, WA, USA; Menlo Park, CA, USA | https://www.facebook.com/careers/jobs/859448991102087/ |
+| Facebook | Data scientist ||https://www.facebook.com/careers/resume/?req=a1K2K0000033OyWUAU|
 | Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
+|GE|Digital Technology Leadership Program (DTLP) - 2020|||
 | Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |
 | IBM | Front end - Back end - salesforce | All locations | on IBM website |
 | Jet Propotion Lab CalTech| SOFTWARE COMPUTING SYSTEMS ENGINEER - NEW GRAD | CA | linkedin |
