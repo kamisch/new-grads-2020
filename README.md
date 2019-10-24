@@ -35,7 +35,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Fidelity | LEAP PROGRAM/Software engineer |||
 | Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
 |GE|Digital Technology Leadership Program (DTLP) - 2020|||
-| Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |
+| Goldman Sach's | New Analyst/accelerated swe/swe | New York, NY, USA; Salt Lake City, UT, USA | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |
 | IBM | Front end - Back end - salesforce | All locations | on IBM website |
 | Jet Propotion Lab CalTech| SOFTWARE COMPUTING SYSTEMS ENGINEER - NEW GRAD | CA | linkedin |
 | LinkedIn | Entry Level Software Engineer, associate product manager |	Sunnyvale, CA, US |	https://careers.linkedin.com/students/Entry-Level/Technical|
@@ -48,7 +48,8 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Paypal |	Software Engineer |	San Jose, CA | Applied online |
 | Stripe | Software Engineer | Seattle, WA, US; San Francisco, CA, US | https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 |
 | Twenty Billion Neurons | AI Engineer Intern | Berlin, Germany | via handshake |
-| Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship "Can't verify email after submitting"|
+| Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship |
+| Two sigma | Quant and swe college hire |||
 | Vanguard | Software developer entry level NC | | | 
 | Virtu Financial | Software Engineer, Financial Systems Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
 | Visa | New College Grad - Software Engineer | multiple locations | on website |
@@ -98,7 +99,6 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Qualcomm ||||
 | Riot ||||
 | Salesforce | ~ | ~ | ~ |
-| Two Sigma ||||
 
 ## Dont think it fits my resume
 | Company | Position | Location | Link |
