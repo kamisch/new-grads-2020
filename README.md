@@ -46,6 +46,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Paradigm Technologies | Data Scientist | Chicago, IN| via handshake|
 | Paradigm Technologies | Software Developer | Chicago, IN| via handshake|
 | Paypal |	Software Engineer |	San Jose, CA | Applied online |
+| Slack | backend and Associate software developer frontend || https://slack.com/careers/1890153/associate-software-engineer-frontend?gh_src=pmw542v31#apply|
 | Stripe | Software Engineer | Seattle, WA, US; San Francisco, CA, US | https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 |
 | Twenty Billion Neurons | AI Engineer Intern | Berlin, Germany | via handshake |
 | Two sigma | Quant and swe college hire |||
