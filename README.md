@@ -9,6 +9,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | --- | --- | --- | --- |
 | Aerotek| Javasoftware engineer | RTP | via linkedin |
 | Abercrombie and Fitch Co ||| tech fair|
+| Accenture | | | on website |
 | Adobe| Software developer DCX new hire | all location | on website|
 | Affirm	| Software Enginee New Grad 2020	| San Francisco, CA	| https://jobs.lever.co/affirm/df87945c-182f-49d6-b323-691ce5c73a53|
 | Atlassian |	Software Developer 2020 Graduate	| Mountain View, CA, USA |	https://www.atlassian.com/company/careers/detail/5f0772a8-6df5-40f0-8f1a-044effca6699|
