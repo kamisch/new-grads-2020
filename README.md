@@ -42,6 +42,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Matroid | Full Stack Engineer | PALO ALTO, CA | via handshake|
 | NCS | Research Scientist/Engineer | North Region, Singapore | via handshake |
 | Netapp | Software Engineer | Raleigh area | via linkedin | 
+| Robinhood | Software engineering new grad |||
 | Rockset | Software Engineer | San Mateo, CA, US | https://hire.withgoogle.com/public/jobs/rocksetio/view/P_AAAAAADAAADMgOiflDNuLe |
 | oracle ||||
 | Paradigm Technologies | Data Scientist | Chicago, IN| via handshake|
