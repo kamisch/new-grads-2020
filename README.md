@@ -54,6 +54,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Virtu Financial | Software Engineer, Financial Systems Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
 | Visa | New College Grad - Software Engineer | multiple locations | on website |
 | Wish | Software Engineer, New Grad | San Francisco, CA | https://jobs.lever.co/wish/2173348c-7453-4363-aabd-ba8511e31bea |
+|Yext|2020 Software Engineer, New Graduate|||
 
 ## Interview stage
 | Company | Position | applied Location | Link |
