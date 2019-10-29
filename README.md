@@ -11,7 +11,6 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Abercrombie and Fitch Co ||| tech fair|
 | Accenture | | | on website |
 | Adobe| Software developer DCX new hire | all location | on website|
-| Affirm	| Software Enginee New Grad 2020	| San Francisco, CA	| https://jobs.lever.co/affirm/df87945c-182f-49d6-b323-691ce5c73a53|
 | Atlassian |	Software Developer 2020 Graduate	| Mountain View, CA, USA |	https://www.atlassian.com/company/careers/detail/5f0772a8-6df5-40f0-8f1a-044effca6699|
 | American Express | Campus 2020 Technology Software Engineer | New York, NY, USA | https://jobs.americanexpress.com/jobs/19013265?lang=en-us&previousLocale=en-US |
 | Apple | Software Engineer (Siri Rotational Program) | Cupertino, CA | https://jobs.apple.com/en-us/details/200078270/siri-software-engineer-siri-rotational-program?team=MLAI |
@@ -44,6 +43,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | NCS | Research Scientist/Engineer | North Region, Singapore | via handshake |
 | Netapp | Software Engineer | Raleigh area | via linkedin | 
 | Rockset | Software Engineer | San Mateo, CA, US | https://hire.withgoogle.com/public/jobs/rocksetio/view/P_AAAAAADAAADMgOiflDNuLe |
+| oracle ||||
 | Paradigm Technologies | Data Scientist | Chicago, IN| via handshake|
 | Paradigm Technologies | Software Developer | Chicago, IN| via handshake|
 | Paypal |	Software Engineer |	San Jose, CA | Applied online |
@@ -69,6 +69,7 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Company | Position | Stage | Link |
 | --- | --- | --- | --- |
 | Amazon | Software Development Engineer | Final round| https://www.amazon.jobs/en/jobs/908703/software-development-engineer-2020-united-states |
+| Affirm	| Software Enginee New Grad 2020	| no interview	| https://jobs.lever.co/affirm/df87945c-182f-49d6-b323-691ce5c73a53|
 | Bank of America | Global Technology Analyst Program | First video interview ||
 | Citrix | University Software Engineer | Hackerrank | https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-2020 |
 | Capital One | Technology Development Program | Final Round | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
