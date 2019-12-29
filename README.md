@@ -1,3 +1,5 @@
+# 2020 job searching is closed for me. Hofully these job references helps you land you next drean job 
+###### an app for otimizing job searching experience coming soon ?
 # new-grads-2020
 A collection of new grad roles for 2020. Forked from cmackenzie
 
@@ -58,15 +60,15 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Wish | Software Engineer, New Grad | San Francisco, CA | https://jobs.lever.co/wish/2173348c-7453-4363-aabd-ba8511e31bea |
 |Yext|2020 Software Engineer, New Graduate|||
 
-## Interview stage
+## Interview Stage
 | Company | Position | applied Location | Link |
 | --- | --- | --- | --- |
 | Akuna Capital | Junior Developer | Chicago, IL | https://akunacapital.com/job-details?gh_jid=1755321 |
-| Google | Software Engineer, University Graduate | all locations | on google website | 
-| IBM | Salesforce engineer | | |
+| Kitware | Software engineer | | | 
 | SAS | System developer and technical consultant |||
 | Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship|
 | Vanguard | Software developer entry level NC | | | 
+| Visa | Software Engineer | | |
 
 ## No Offers
 | Company | Position | Stage | Link |
@@ -81,21 +83,24 @@ A collection of new grad roles for 2020. Forked from cmackenzie
 | Epic Systems | | No interview | |
 | Fidelity | LEAP PROGRAM/Software engineer | no interview ||
 | General Motor |  Early Career - TRACK - Software/Algorithm Engineer  | First Video Interview | on their website |
+| Google | Software Engineer, University Graduate | round 2 | on google website | 
 | Gusto | Software Engineer | no interview | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823033 |
+| IBM | Salesforce engineer | No interview | |
 | IXL Learning | Software Engineer | Hackerrank | via linkedin |
 | Lime | Software Engineer | No interview | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
 | Microsoft | Software Engineer, Data Science | No interview | https://careers.microsoft.com/students/us/en |
 | Palantir | Software Engineer, University Grad | Hackerrank | |
 | Redventure | Software engineering | No Interview ||
+| Root Insurance | Software engineering | Final Interview | |
 | Thumbtack | Software Engineer | No Interview | https://boards.greenhouse.io/thumbtack/jobs/1814757?gh_src=6262b31c1 |
 | Virtu Financial | Software Engineer, Financial Systems Dev | No Interview | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
 | WillowTree | Software Engineer, new grade | no interview | on their website |
 | Yelp | Software Engineer, New Grad, backend and fullstack | Hackerrank | https://www.yelp.com/careers/teams/college-engineering |
 
-
 ## Offers
 | Company | Position | applied Location | Link |
 | --- | --- | --- | --- |
+| Cisco | Software Engineer Grade 4 | RTP | via linkedin |
 | JPMorgan | Software Engineer | Columbus, OH | https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime |
 
 ## Open Applications
